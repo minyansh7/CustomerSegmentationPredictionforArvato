@@ -1,7 +1,7 @@
 # CustomerSegmentationPredictionforArvato
 Capstone Project: Create a Customer Segmentation Report for Arvato Financial Services
 
-# RecommendationSystemProject
+
 1. [Project Introduction](#motivation)
 2. [Project Summary and Thoughts](#summary)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
