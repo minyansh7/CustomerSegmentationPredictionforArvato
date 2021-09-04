@@ -26,7 +26,7 @@ Unlike accuracy score, the most common evaluation metrics is not appropriate thi
 
 III. Further Improvement
 
-Logistic Regression model is identified as the best model for building the prediction modelling. The best score is 0.563481. Apply the Logistic Regression model upon MAILOUT_TEST dataset, and achieve the final score of 0.55985 on Kaggle. The closer the score to 1, the better the performance of the model. We can see there are still room for improvement considering data cleaning and feature tranformation and modeling process.
+Logistic Regression model is identified as the best model for building the prediction modelling. The best score is 0.563481. Apply the model upon MAILOUT_TEST dataset, and achieve the final score of 0.55985 on Kaggle. The closer the score to 1, the better the performance of the model. We can see there are still room for improvement considering data cleaning and feature tranformation and modeling process.
 
 
 ## 3. Licensing, Authors and Acknowledgements<a name="licensing"></a>
