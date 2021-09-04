@@ -12,7 +12,7 @@ Capstone Project: Create a Customer Segmentation Report for Arvato Financial Ser
 In the project, a mail-order sales company in Germany is interested in identifying segments of the general population to target with their marketing in order to grow. Demographic information has been provided for both the general population at large as well as for prior customers of mail-order company in order to build a model of the customer base of the company. The target dataset contains demographic information for targets of a mail-out marketing campaign. The objective is to identify which individuals are most likely to response to the campaign and become customers of the mail-order company.
 
 ## 2. Project Summary and Thoughts<a name="summary"></a>
-I.PCA Componets Analysis
+I. PCA Componets Analysis
 
 In this project, PCA analysis is applied to reduce the dimensions of the data for clustering and modelling. It compressed the data from 215 dimensions to 152 components while preserved 95% variance.
 
